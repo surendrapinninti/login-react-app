@@ -10,7 +10,7 @@ import Sidebar from '../Sidebar'
                 <Sidebar/>
                 
            
-           <h3>welcome to admin Dashboard</h3> 
+           <h3>welcome to admin Dashboard </h3> 
             </div>
            
         </div>
